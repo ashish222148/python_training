@@ -9,6 +9,8 @@ print(type(y)) #str
 print(type(z)) #float
 print(type(x>z)) #bool
 print(type(n)) #bool
+print(n)
+print(True)
 
 #when we perform any mathmatical operationn on boolean value , its is going to be matmatical(True -1, False -0)
 print(True+True) #result will be 2
